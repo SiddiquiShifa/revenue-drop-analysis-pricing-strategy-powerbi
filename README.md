@@ -2,7 +2,7 @@
 AtliQ Grands is facing declining revenue in its luxury segment due to increased competition and lack of data-driven decision-making. 
 This project analyzes historical hotel performance data to identify root causes and provide actionable insights for revenue optimization.
 
-# Tools & Skills Used
+### Tools & Skills Used
 - Power BI (Dashboarding & DAX)
 - SQL / Excel (Data aggregation)
 - Business KPI Analysis (RevPAR, ADR, Occupancy)
