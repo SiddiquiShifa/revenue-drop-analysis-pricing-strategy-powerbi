@@ -6,10 +6,10 @@ The analysis focuses on key hospitality KPIs such as RevPAR, ADR, Occupancy Rate
 
 ## Business Problem
 
-->Management wanted to understand:
-->Why revenue declined despite stable room supply
-->Whether the issue was related to occupancy, cancellations, or pricing
-->Which segments or booking channels contributed most to the decline
+Management wanted to understand:
+- Why revenue declined despite stable room supply
+- Whether the issue was related to occupancy, cancellations, or pricing
+- Which segments or booking channels contributed most to the decline
 
 The goal was to identify the root cause and provide insights that support better revenue management decisions.
 - Power BI (Dashboarding & DAX)
