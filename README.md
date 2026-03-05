@@ -69,6 +69,7 @@ Implement data-driven revenue management practices
 
 ### Dashboard
  <img width="1380" height="734" alt="image" src="https://github.com/user-attachments/assets/d2275da2-6d12-469b-9be2-b053e1802afb" />
+
 ### Conclusion
 
 The revenue decline was not caused by operational factors such as room availability or booking cancellations.
