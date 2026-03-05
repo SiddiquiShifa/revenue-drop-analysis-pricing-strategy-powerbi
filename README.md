@@ -23,11 +23,11 @@ The goal was to identify the root cause and provide insights that support better
 The analysis uses booking and hotel performance data across multiple tables.
 
 Tables Used
-  fact_bookings – 134,590 booking records
-  fact_aggregated_bookings
-  dim_hotels – 25 hotels
-  dim_rooms
-  dim_date
+  -fact_bookings – 134,590 booking records
+  -fact_aggregated_bookings
+  -dim_hotels – 25 hotels
+  -dim_rooms
+  -dim_date
 Time Period: May 2022 – July 2022
 #### Granularity:
 Booking-level data
