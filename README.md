@@ -36,10 +36,8 @@ Weekly revenue aggregation
 
 ### Tools & Technologies
 
-Power BI – Dashboard creation and visualization
-DAX – KPI calculations
-Excel / SQL – Data validation and aggregation
-Business KPI Analysis – RevPAR, ADR, Occupancy
+- Power BI – Dashboard creation and visualization  - DAX – KPI calculations
+- Excel / SQL – Data validation and aggregation - Business KPI Analysis – RevPAR, ADR, Occupancy
 
 ### Analysis Approach
 
