@@ -36,34 +36,36 @@ Weekly revenue aggregation
 
 ### Tools & Technologies
 
-- Power BI – Dashboard creation and visualization  - DAX – KPI calculations
-- Excel / SQL – Data validation and aggregation - Business KPI Analysis – RevPAR, ADR, Occupancy
+- Power BI – Dashboard creation and visualization
+- DAX – KPI calculations
+- Excel / SQL – Data validation and aggregation
+- Business KPI Analysis – RevPAR, ADR, Occupancy
 
 ### Analysis Approach
 
 To identify the cause of revenue decline, the following analytical steps were performed:-
-  Identified abnormal revenue trends using weekly revenue analysis
-  Compared occupancy levels between normal and low-revenue weeks
-  Evaluated booking realization ratio to rule out cancellations
-  Analyzed segment-level revenue contribution
-  Conducted weekday vs weekend pricing analysis
-  Evaluated channel-level ADR trends
+ - Identified abnormal revenue trends using weekly revenue analysis
+ - Compared occupancy levels between normal and low-revenue weeks
+ - Evaluated booking realization ratio to rule out cancellations
+ - Analyzed segment-level revenue contribution
+ - Conducted weekday vs weekend pricing analysis
+ - Evaluated channel-level ADR trends
 
 ### Key Insights
 
-Room supply remained stable, as Daily Sellable Room Nights (DSRN) did not change significantly.
-Booking realization ratio remained consistent (~69–71%), indicating cancellations were not a major factor.
-Luxury segment revenue declined significantly, becoming the primary contributor to overall revenue decline.
-Weekend occupancy (64%) was higher than weekday occupancy (57%), indicating stronger demand.
+- Room supply remained stable, as Daily Sellable Room Nights (DSRN) did not change significantly.
+- Booking realization ratio remained consistent (~69–71%), indicating cancellations were not a major factor.
+- Luxury segment revenue declined significantly, becoming the primary contributor to overall revenue decline.
+- Weekend occupancy (64%) was higher than weekday occupancy (57%), indicating stronger demand.
 However, ADR remained nearly identical on weekdays and weekends, limiting revenue potential.
 A sharp ADR drop in the Offline Direct channel suggests a pricing strategy misalignment.
 
 ### Recommendations
-Based on the analysis, the following actions are recommended:
-Introduce dynamic pricing strategies for weekends
-Reevaluate Luxury segment pricing strategy
-Investigate Offline Direct channel pricing adjustments
-Implement data-driven revenue management practices
+- Based on the analysis, the following actions are recommended:
+- Introduce dynamic pricing strategies for weekends
+- Reevaluate Luxury segment pricing strategy
+- Investigate Offline Direct channel pricing adjustments
+- Implement data-driven revenue management practices
 
 ### Dashboard
  <img width="1380" height="734" alt="image" src="https://github.com/user-attachments/assets/d2275da2-6d12-469b-9be2-b053e1802afb" />
