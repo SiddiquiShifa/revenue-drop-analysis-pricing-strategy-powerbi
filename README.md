@@ -17,7 +17,6 @@ The goal was to identify the root cause and provide insights that support better
 - Business KPI Analysis (RevPAR, ADR, Occupancy)
 - Root Cause Analysis
 - Revenue Management Concepts
-  <img width="1380" height="734" alt="image" src="https://github.com/user-attachments/assets/d2275da2-6d12-469b-9be2-b053e1802afb" />
 
 ### Dataset
 
@@ -30,7 +29,7 @@ Tables Used
   dim_rooms
   dim_date
 Time Period: May 2022 – July 2022
-# Granularity:
+#### Granularity:
 Booking-level data
 Daily room availability
 Weekly revenue aggregation
@@ -69,7 +68,7 @@ Investigate Offline Direct channel pricing adjustments
 Implement data-driven revenue management practices
 
 ### Dashboard
-
+ <img width="1380" height="734" alt="image" src="https://github.com/user-attachments/assets/d2275da2-6d12-469b-9be2-b053e1802afb" />
 ### Conclusion
 
 The revenue decline was not caused by operational factors such as room availability or booking cancellations.
